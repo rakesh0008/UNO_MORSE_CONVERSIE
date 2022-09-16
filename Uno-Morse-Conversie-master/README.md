@@ -8,5 +8,3 @@ UNO - Single button input
 Morse - Morse code
 
 Conversie - Conversion of Morse
-
-Please look Report & PPT for clear understanding
